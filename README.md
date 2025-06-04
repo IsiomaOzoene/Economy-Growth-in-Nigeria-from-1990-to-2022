@@ -1,6 +1,6 @@
 # Economy-Growth-in-Nigeria-from-1990-to-2022
 In this analysis, I examined some potential variables that contributed to slowing down the country's pace of development. I also examine the role that leadership plays in the country's economy's development. 
-This visualization provides a detailed view of Nigeria’s economic indicators from 1990 to 2023, It includes data on GDP, inflation rate, unemployment, and other critical economic metrics. 
+This visualization provides a detailed view of Nigeria’s economic indicators from 1990 to 2022, It includes data on GDP, inflation rate, unemployment, and other critical economic metrics. 
 The aim was to understand the trends and patterns in Nigeria’s economic growth and challenges over the years.
 NOTE: For the purpose of learning and improving on data analysis, I used this dataset and it is important to note that the dataset does not represent the true data of Nigeria Economy
 
